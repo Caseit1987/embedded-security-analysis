@@ -1,3 +1,6 @@
+> **Defensive ATM & embedded security research.**
+> No exploits, credentials, or sensitive operational data included.
+
 # Embedded Security Analysis
 
 Defensive security research focused on embedded and financial infrastructure systems.
